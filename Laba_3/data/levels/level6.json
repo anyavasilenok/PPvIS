@@ -1,0 +1,89 @@
+{
+    "level_number": 6,
+    "bricks": [
+        {
+            "position": 84,
+            "lives": 1,
+            "color": "purple",
+            "bonus": "double_ball"
+        },
+        {
+            "position": 85,
+            "lives": 1,
+            "color": "purple",
+            "bonus": "-"
+        },
+        {
+            "position": 86,
+            "lives": 1,
+            "color": "purple",
+            "bonus": "-"
+        },
+        {
+            "position": 87,
+            "lives": 1,
+            "color": "purple",
+            "bonus": "-"
+        },
+        {
+            "position": 88,
+            "lives": 1,
+            "color": "purple",
+            "bonus": "double_ball"
+        },
+        {
+            "position": 89,
+            "lives": 1,
+            "color": "purple",
+            "bonus": "-"
+        },
+        {
+            "position": 90,
+            "lives": 1,
+            "color": "purple",
+            "bonus": "-"
+        },
+        {
+            "position": 91,
+            "lives": 1,
+            "color": "purple",
+            "bonus": "-"
+        },
+        {
+            "position": 92,
+            "lives": 1,
+            "color": "purple",
+            "bonus": "-"
+        },
+        {
+            "position": 93,
+            "lives": 1,
+            "color": "purple",
+            "bonus": "-"
+        },
+        {
+            "position": 94,
+            "lives": 1,
+            "color": "purple",
+            "bonus": "-"
+        },
+        {
+            "position": 95,
+            "lives": 1,
+            "color": "purple",
+            "bonus": "-"
+        },
+        {
+            "position": 96,
+            "lives": 1,
+            "color": "purple",
+            "bonus": "-"
+        },
+        {
+            "position": 97,
+            "lives": 1,
+            "color": "purple",
+            "bonus": "-"
+        }
+    ]
+}

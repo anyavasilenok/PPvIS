@@ -1,0 +1,125 @@
+{
+    "level_number": 1,
+    "bricks": [
+        {
+            "position": 84,
+            "lives": 1,
+            "color": "yellow",
+            "bonus": "double_ball"
+        },
+        {
+            "position": 85,
+            "lives": 1,
+            "color": "yellow",
+            "bonus": "-"
+        },
+        {
+            "position": 86,
+            "lives": 1,
+            "color": "yellow",
+            "bonus": "-"
+        },
+        {
+            "position": 87,
+            "lives": 1,
+            "color": "yellow",
+            "bonus": "-"
+        },
+        {
+            "position": 88,
+            "lives": 1,
+            "color": "yellow",
+            "bonus": "double_ball"
+        },
+        {
+            "position": 89,
+            "lives": 1,
+            "color": "yellow",
+            "bonus": "-"
+        },
+        {
+            "position": 90,
+            "lives": 1,
+            "color": "yellow",
+            "bonus": "-"
+        },
+        {
+            "position": 91,
+            "lives": 1,
+            "color": "yellow",
+            "bonus": "-"
+        },
+        {
+            "position": 92,
+            "lives": 1,
+            "color": "yellow",
+            "bonus": "-"
+        },
+        {
+            "position": 93,
+            "lives": 1,
+            "color": "yellow",
+            "bonus": "ball_fast"
+        },
+        {
+            "position": 94,
+            "lives": 1,
+            "color": "yellow",
+            "bonus": "-"
+        },
+        {
+            "position": 95,
+            "lives": 1,
+            "color": "yellow",
+            "bonus": "-"
+        },
+        {
+            "position": 96,
+            "lives": 1,
+            "color": "yellow",
+            "bonus": "-"
+        },
+        {
+            "position": 97,
+            "lives": 1,
+            "color": "yellow",
+            "bonus": "-"
+        },
+        {
+            "position": 99,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 102,
+            "lives": 1,
+            "color": "yellow",
+            "bonus": "-"
+        },
+        {
+            "position": 104,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 105,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 107,
+            "lives": 1,
+            "color": "yellow",
+            "bonus": "-"
+        },
+        {
+            "position": 110,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        }
+    ]
+}
