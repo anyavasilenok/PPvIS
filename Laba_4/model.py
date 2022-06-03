@@ -17,7 +17,9 @@ class Model:
         self.__weather = weather  # Погода
 
     def add_garden_bed(self) -> str:
-        if self.__money < 10:
+        if self.garden_bed_kol() >= 7:
+            status = 'Не хватает места для грядок'
+        elif self.__money < 10:
             status = 'Не хватает денег'
         else:
             self.__garden_bed.append(GardenBed(0, False, False))
@@ -27,7 +29,9 @@ class Model:
         return status
 
     def plant_tree(self, tree_name: str) -> str:
-        if self.__money < 25:
+        if self.tree_kol() >= 5:
+            status = 'Не хватает места для деревьев'
+        elif self.__money < 25:
             status = 'Не хватает денег )'
         elif self.__TREE.count(tree_name) == 0:
             status = "Такиких саженцев нет"

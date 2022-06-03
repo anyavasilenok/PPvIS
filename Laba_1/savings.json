@@ -1,9 +1,24 @@
 {
-  "money": 70,
-  "garden_bed_kol": 1,
-  "day": 1,
-  "weather": "солнце",
-  "tree": [],
+  "money": 0,
+  "garden_bed_kol": 3,
+  "day": 5,
+  "weather": "дождь",
+  "tree": [
+    {
+      "ill": false,
+      "pest": false,
+      "life_day": 4,
+      "harvest_day": 0,
+      "type": "груша"
+    },
+    {
+      "ill": true,
+      "pest": false,
+      "life_day": 2,
+      "harvest_day": 0,
+      "type": "яблоня"
+    }
+  ],
   "garden_bed": [
     {
       "DAY": 0,
@@ -11,12 +26,22 @@
       "HERB": {
         "ill": false,
         "pest": false,
-        "life_day": 0,
+        "life_day": 3,
         "harvest_day": 0,
         "type": "перец",
-        "water": 100,
-        "level_fertilization": 100
+        "water": 70,
+        "level_fertilization": 90
       }
+    },
+    {
+      "DAY": 0,
+      "WEED": true,
+      "HERB": false
+    },
+    {
+      "DAY": 3,
+      "WEED": true,
+      "HERB": false
     }
   ]
 }
